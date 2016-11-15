@@ -1,0 +1,27 @@
+﻿@using Resources
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="alert alert-warning col-lg-12 col-md-12 col-sm-12 col-xs-12" role="alert" data-bind="visible:products.error()">
+    <strong data-bind="text:products.error"></strong>
+</div>
+<div data-bind="visible:products.activeView()=='product'">
+    @Html.Partial("_Products")
+</div>
+<div data-bind="visible:products.activeView()=='search'">
+    @Html.Partial("_Search")
+</div>
+    @Html.Partial("_Modal")
+<div data-bind="visible:products.activeView()=='viewcart'">
+    @Html.Partial("_ViewCart")
+</div>
+<div class="loader" data-bind="visible:menu.load"></div>
+    @section scripts{
+        @Scripts.Render("~/bundles/knockout")
+        <script>
+            cart.user = ko.observable(@Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(HttpContext.Current.Session["CartId"].ToString())));
+        </script>
+    }
+
+

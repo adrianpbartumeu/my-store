@@ -1,0 +1,30 @@
+﻿@using Resources
+<!--A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    @Styles.Render("~/Content/new_design")   
+    @Scripts.Render("~/bundles/js_design")     
+    @Scripts.Render("~/bundles/bootstrap")  
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Indie+Flower">
+</head>
+<body>
+    @Html.Partial("_Menu")
+
+    @Html.Partial("_Slide")   
+   
+    @RenderBody()    
+    
+    @Html.Partial("_Footer")
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

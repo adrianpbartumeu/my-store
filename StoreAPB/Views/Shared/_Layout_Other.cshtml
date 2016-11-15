@@ -1,0 +1,46 @@
+﻿@using Resources;
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    @Styles.Render("~/Content/new_design")
+    @Scripts.Render("~/bundles/js_design")
+    @Scripts.Render("~/bundles/bootstrap")
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Indie+Flower">
+</head>
+<body>   
+    <div class="my_nav col-sm-12 col-xs-12 ">
+        <div class="col-sm-4 col-sm-offset-8 col-xs-12">
+            <div>
+                <div class="lang">
+                    <a href="@Url.Action("Change_Culture", "Home", new { culture="en"})">
+                        <img src="@Url.Content("~/Images/Principal/eu.gif")" alt="" />
+                    </a>
+                    <a href="@Url.Action("Change_Culture", "Home",new { culture="es"})">
+                        <img src="@Url.Content("~/Images/Principal/esp.gif")" alt="" />
+                    </a>
+                </div>
+                <div class="user">
+                    <ul class="user-manager">
+                        <li>@Html.ActionLink(Resources.Register, "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+                        <li>@Html.ActionLink(Resources.Login, "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+                        <li class="show-cart">
+                            <img src="@Url.Content("~/Images/Index/cart.png")" alt="" />
+                            <span data-bind="text: cartImportant.amount">4</span>
+                            @Html.Partial("_CartOther")
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+  
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+   
+    @RenderSection("scripts", required: false)
+</body>
+</html>

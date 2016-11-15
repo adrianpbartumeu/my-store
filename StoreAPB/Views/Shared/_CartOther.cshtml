@@ -1,0 +1,37 @@
+﻿@using Resources;
+<div class="cart">
+    <div class="cart-heading">
+        <h4>@Resources.CarDetail</h4>
+    </div>
+    <table class="cart-table">
+        <tbody>
+            <!-- ko foreach: cart.products -->
+            <tr>
+                <td class="#">                   
+                    <img src="@Url.Content("~/Images/Electrical/")" data-bind="appendToSRC:$data.product.type+'/'+$data.product.image,isElectrial:$data.product.type" width="35" height="25" />
+                    <img src="@Url.Content("~/Images/Meat/")" data-bind="appendToSRC:$data.product.type+'/'+$data.product.image,isMeat:$data.product.type" width="35" height="25" />
+                </td>
+                <td data-bind="text:$data.product.name_p">5</td>
+                <td data-bind="text:($data.product.price-$data.product.reduce)">5</td>
+                <td data-bind="text:'x '+ $data.count()">x 2</td>
+                <td data-bind="text:(($data.product.price-$data.product.reduce)*$data.count())">x 2</td>
+                <td style="cursor:pointer" class="deleteAllFromCart" data-bind="click:removeFromCart">                  
+                    <i class="glyphicon glyphicon-trash"> </i>
+                </td>
+            </tr>
+            <!-- /ko -->
+        </tbody>
+    </table>
+    <div class="cart-footer text-right" data-bind="visible:cart.products().length>0">
+        <h4 class="subtotal" data-bind="text:'$'+cartImportant.total()"> Subtotal: $105 </h4>
+        <div class="footer_buttons">
+            <a class="list" href="" data-bind="click:viewCart">
+                <i class="glyphicon glyphicon-shopping-cart"> </i> @Resources.ViewCart
+            </a>
+            <a class="list" href="">@Resources.CheckOut </a>
+        </div>
+    </div>
+    <div class="withoutprod" data-bind="visible:cart.products().length==0">
+        @Resources.WithoutProduct
+    </div>
+</div>

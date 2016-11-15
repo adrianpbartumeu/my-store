@@ -1,0 +1,138 @@
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\StoreAPB.dll.config
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\StoreAPB.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\StoreAPB.pdb
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Antlr3.Runtime.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\EntityFramework.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\EntityFramework.SqlServer.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.AspNet.Identity.Core.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.Cookies.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.Facebook.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.Google.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.OAuth.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.Twitter.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Web.Infrastructure.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Newtonsoft.Json.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Owin.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Net.Http.Formatting.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.Helpers.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.Http.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.Http.WebHost.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.Mvc.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.Optimization.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.Razor.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.WebPages.Deployment.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.WebPages.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.WebPages.Razor.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\WebGrease.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.Helpers.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.Mvc.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.Optimization.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.Razor.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.WebPages.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.WebPages.Deployment.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.WebPages.Razor.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Antlr3.Runtime.pdb
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Newtonsoft.Json.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Net.Http.Formatting.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.Http.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\System.Web.Http.WebHost.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\EntityFramework.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\EntityFramework.SqlServer.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.AspNet.Identity.Core.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.Facebook.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.Cookies.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.OAuth.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.Google.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.Twitter.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\obj\Debug\StoreAPB.csprojResolveAssemblyReference.cache
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\obj\Debug\StoreAPB.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\obj\Debug\StoreAPB.pdb
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Resources.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\Resources.pdb
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\StoreAPB\StoreAPB\StoreAPB\bin\es\Resources.resources.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\StoreAPB.dll.config
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\StoreAPB.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\StoreAPB.pdb
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Antlr3.Runtime.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\EntityFramework.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\EntityFramework.SqlServer.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Newtonsoft.Json.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Owin.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Resources.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Net.Http.Formatting.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.Helpers.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.Http.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.Http.WebHost.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.Mvc.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.Optimization.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.Razor.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.WebPages.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\WebGrease.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Resources.pdb
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Antlr3.Runtime.pdb
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\EntityFramework.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\EntityFramework.SqlServer.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Newtonsoft.Json.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Net.Http.Formatting.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.Helpers.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.Http.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.Http.WebHost.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.Mvc.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.Razor.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.WebPages.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\System.Web.Optimization.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\es\Resources.resources.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\obj\Debug\StoreAPB.csprojResolveAssemblyReference.cache
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\obj\Debug\StoreAPB.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\obj\Debug\StoreAPB.pdb
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\obj\Debug\StoreAPB.Migrations.InitialCreate.resources
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\obj\Debug\StoreAPB.csproj.GenerateResource.Cache
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\SendGrid.SmtpApi.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\SendGridMail.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\StoreAPB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml

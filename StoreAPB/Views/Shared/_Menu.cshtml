@@ -1,0 +1,123 @@
+﻿@using Resources
+
+<div class="my_nav col-sm-12 col-xs-12 ">
+    <div class="col-sm-8 col-sm-offset-4 col-xs-12">
+        <div>
+            <div class="lang">
+                <a href="@Url.Action("Change_Culture", "Home", new { culture="en"})">
+                    <img src="@Url.Content("~/Images/Principal/eu.gif")" alt="" />
+                </a>
+                <a href="@Url.Action("Change_Culture", "Home",new { culture="es"})">
+                    <img src="@Url.Content("~/Images/Principal/esp.gif")" alt="" />
+                </a>
+            </div>
+            <div class="user">
+                <ul class="user-manager">
+                    @Html.Partial("_LoginPartial")
+                   
+                    @*<li>@Html.ActionLink(Resources.Register, "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+                    <li>@Html.ActionLink(Resources.Login, "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>*@ 
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <p class="mobile-menu" href="#">Menu</p>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("Home", "Index", "Home", null, new { @class = "color10" })</li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-t">@Resources.Specials <span class="caret"></span></a>
+                    <ul class="menu">
+                        <li class="col-sm-6">
+                            <ul>
+                                <li>
+                                    <a data-bind="text: 'Electrical', attr: { href: '', title: 'Search Special Electrical' }, click:specialElectricalLink.bind($data,'electrical')"></a>
+                                </li>
+                                <li>
+                                    <a data-bind="text: 'Meat', attr: { href: '', title: 'Search Special Meats' }, click:specialMeatLink.bind($data,'meat')"></a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>                
+                <li class="dropdown">
+                    <a href="#" class="dropdown-t">@Resources.ElectricalDevice<span class="caret"></span></a>
+                    <ul class="menu clean-menu">
+                        <li class="col-lg-10 col-md-10 col-sm-10 col-xs-10">
+                            <ul data-bind="foreach: menu.electricalType">
+                                <li>
+                                    <a data-bind="text: $data, attr: { href: '', title: 'Search '+$data }, click:electricalLink"></a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+                            <ul>
+                                <li>
+                                    <img src="@Url.Content("~/Images/Electrical/CD Recorder/cd recorder1.jpg")" />
+                                </li>
+                                <li>
+                                    <img src="@Url.Content("~/Images/Electrical/Mixer/Mixer1.jpg")" />
+                                </li>
+                                <li>
+                                    <img src="@Url.Content("~/Images/Electrical/Radio/radio1.jpg")" />
+                                </li>
+                                <li>
+                                    <img src="@Url.Content("~/Images/Electrical/Tape Recorder/tape recorder1.jpg")" />
+                                </li>
+                                <li>
+                                    <img src="@Url.Content("~/Images/Electrical/TV/tv1.jpg")" />
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-t">@Resources.Meats<span class="caret"></span></a>
+                    <ul class="menu clean-menu">
+                        <li class="col-lg-10 col-md-10 col-sm-10 col-xs-10">
+                            <ul data-bind="foreach: menu.meatType">
+                                <li>
+                                    <a data-bind="text: $data, attr: { href: '', title: 'Search '+$data }, click:meatLink"></a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+                            <ul>
+                                <li>
+                                    <img src="@Url.Content("~/Images/Meat/Beef/beef.jpg")" />
+                                </li>
+                                <li>
+                                    <img src="@Url.Content("~/Images/Meat/Chicken/chicken.jpg")" />
+                                </li>
+                                <li>
+                                    <img src="@Url.Content("~/Images/Meat/Mutton/mutton.jpg")" />
+                                </li>
+                                <li>
+                                    <img src="@Url.Content("~/Images/Meat/Pork/pork.jpg")" />
+                                </li>
+                                <li>
+                                    <img src="@Url.Content("~/Images/Meat/Veal/veal.jpg")" />
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+            </ul>           
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+

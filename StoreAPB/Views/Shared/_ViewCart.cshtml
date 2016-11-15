@@ -1,0 +1,163 @@
+﻿@using Resources
+@model StoreAPB.Models.Address
+<div class="container">
+@* Step 1 *@
+    <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" data-bind="visible:cartview.step1">
+            <ul class="nav nav-pills nav-justified">
+                <li data-bind="css: cssFunction1()">
+                    <a href="" data-bind="click:clickHref">
+                        <strong class="list-group-item-heading">
+                            <i class="glyphicon glyphicon-shopping-cart"></i>
+                        </strong>@Resources.ShoppingCart
+                    </a>
+                </li>
+                <li data-bind="css: cssFunction2()">
+                    <a href="" data-bind="click:clickHref">
+                        <strong class="list-group-item-heading">
+                            <i class="glyphicon glyphicon-check"></i>
+                        </strong>@Resources.YourData
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" data-bind="visible:cartview.step1">
+            <div class="panel panel-default" data-bind="visible:cart.products().length>0">
+                <div class="panel-heading">
+                    <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
+                        <h5><span class="glyphicon glyphicon-shopping-cart"></span>@Resources.ShoppingCart</h5>
+                    </div>
+                    <a class="btn btn-primary" href="@Url.Action("Index", "Home")">
+                        <span class="glyphicon glyphicon-arrow-left"></span>
+                        @Resources.ContinueShopping
+                    </a>
+                </div>
+                <!-- /.panel-heading -->
+                <div class="panel-body">
+                    <div class="table-responsive">
+                        <table class="table table-hover view-cart">
+                            <tbody>
+                                <!-- ko foreach: cart.products -->
+                                <tr>
+                                    <td> 
+                                        <img src="@Url.Content("~/Images/")" data-bind="appendToSRCSearch:$data.product" width="35" height="50" alt="" />
+                                    </td>
+                                    <td data-bind="text:$data.product.name_p">Nombre del Producto</td>
+                                    <td data-bind="text:($data.product.price - $data.product.reduce)">25</td>
+                                    <td>
+                                        <input type="text" class="form-control justinteger" data-bind="textInput:$data.count">
+                                    </td>
+                                    <td> 
+                                        <span style="cursor:pointer" class="glyphicon glyphicon-trash deleteAllFromCart" data-bind="click:removeFromCart"></span>
+                                    </td>
+                                </tr>
+                                <!-- /ko -->
+                            </tbody>
+                        </table>
+                    </div>
+                    <!-- /.table-responsive -->
+                </div>
+
+                <!-- /.panel-body list-->
+                <div class="panel-footer">
+                    <span class="btn btn-success" type="button" data-bind="click:nextStep">
+                        @Resources.CheckOut
+                    </span>
+                    <h4 data-bind="text: 'Total $' + cartImportant.total()">Total <strong>$50.00</strong></h4>
+                </div>
+            </div>
+            <!-- /.panel -->
+        </div>
+    </div>
+    <div class="row" data-bind="visible:cartview.step1">        
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="panel panel-default" data-bind="visible:cart.products().length==0">
+                <div class="panel-heading">
+                    <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
+                        <h5><span class="glyphicon glyphicon-shopping-cart"></span>@Resources.ShoppingCart</h5>
+                    </div>
+                    <a class="btn btn-primary" href="@Url.Action("Index", "Home")">
+                        <span class="glyphicon glyphicon-arrow-left"></span>
+                        @Resources.ContinueShopping
+                    </a>
+                </div>
+                <!-- /.panel-heading -->
+                <div class="panel-body">
+                    <div class="table-responsive">
+                        @Resources.WithoutProduct
+                    </div>
+                    <!-- /.table-responsive -->
+                </div>
+                <!-- /.panel-body -->
+                <div class="panel-footer">
+                </div>
+            </div>
+            <!-- /.panel -->
+        </div>
+    </div>
+@* Step 2 *@
+    <div class="row" data-bind="visible:cartview.step2">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <ul class="nav nav-pills nav-justified">
+                <li data-bind="css:cssFunction1()">
+                    <a href="" data-bind="click:clickHref">
+                        <strong class="list-group-item-heading">
+                            <i class="glyphicon glyphicon-shopping-cart"></i>
+                        </strong>@Resources.ShoppingCart
+                    </a>
+                </li>
+                <li data-bind="css:cssFunction2()">
+                    <a href="" data-bind="click:clickHref">
+                        <strong class="list-group-item-heading">
+                            <i class="glyphicon glyphicon-check"></i>
+                        </strong>@Resources.YourData
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
+                        <h5><span class="glyphicon glyphicon-check"></span>@Resources.YourData</h5>
+                    </div>
+                    <a class="btn btn-primary" href="@Url.Action("Index", "Home")">
+                        <span class="glyphicon glyphicon-arrow-left"></span>
+                        @Resources.ContinueShopping
+                    </a>
+                </div>
+                <!-- /.panel-heading -->
+                <div class="panel-body">
+                    <div class="table-responsive">                       
+                        <form data-bind="submit: formData">
+                            @Html.AntiForgeryToken()                           
+                                    <div>
+                                        <div class="form_row">
+                                            <strong>@Html.LabelFor(model => model.user_addres)</strong>
+                                            @Html.TextBoxFor(model => model.user_addres, new { @class = "form-control" })
+                                            @Html.ValidationMessageFor(model => model.user_addres)
+                                        </div>
+                                        <div class="form_row">
+                                            <strong>  @Html.LabelFor(model => model.phone)</strong>
+                                            @Html.TextBoxFor(model => model.phone, new { @class = "form-control" })
+                                            @Html.ValidationMessageFor(model => model.phone)
+                                        </div>
+                                        <div class="form_row">
+                                            <button class="btn btn-success">@Resources.EndingCheckOut</button>
+                                            <span class="btn btn-primary" data-bind="click:backToCart">@Resources.ShoppingCart</span>
+                                        </div>
+                                    </div>                          
+                        </form>
+                    </div>
+                    <!-- /.table-responsive -->
+                </div>
+                <!-- /.panel-body -->
+                <div class="panel-footer2 footer2">
+
+                </div>
+            </div>
+            <!-- /.panel -->
+        </div>
+    </div>
+</div> 
+<div class="clear"></div>

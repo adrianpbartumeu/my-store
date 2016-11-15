@@ -1,0 +1,59 @@
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store\Resources\bin\Debug\Resources.dll
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store\Resources\bin\Debug\Resources.pdb
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store\Resources\bin\Debug\es\Resources.resources.dll
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store\Resources\obj\Debug\Resources.Resources.resources
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store\Resources\obj\Debug\Resources.Resources.es.resources
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store\Resources\obj\Debug\es\Resources.resources.dll
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store\Resources\obj\Debug\Resources.dll
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store\Resources\obj\Debug\Resources.pdb
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\bin\Debug\Resources.dll
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\bin\Debug\Resources.pdb
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\bin\Debug\es\Resources.resources.dll
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\obj\Debug\Resources.Resources.resources
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\obj\Debug\Resources.Resources.es.resources
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\obj\Debug\es\Resources.resources.dll
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\obj\Debug\Resources.dll
+D:\Adrian Cosas\Internet!!!!!!!!!!!!!!\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\obj\Debug\Resources.pdb
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\bin\Debug\Resources.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\bin\Debug\Resources.pdb
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\bin\Debug\es\Resources.resources.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\obj\Debug\Resources.Resources.resources
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\obj\Debug\Resources.Resources.es.resources
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\obj\Debug\es\Resources.resources.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\obj\Debug\Resources.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store New\Store New\Store\Resources\obj\Debug\Resources.pdb
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\bin\Debug\Resources.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\bin\Debug\Resources.pdb
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\bin\Debug\es\Resources.resources.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\obj\Debug\Resources.Resources.resources
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\obj\Debug\Resources.Resources.es.resources
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\obj\Debug\es\Resources.resources.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\obj\Debug\Resources.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\obj\Debug\Resources.pdb
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\bin\Debug\Resources.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\bin\Debug\Resources.pdb
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\bin\Debug\es\Resources.resources.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\bin\Debug\SendGrid.SmtpApi.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\obj\Debug\Resources.Resources.resources
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\obj\Debug\Resources.Resources.es.resources
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\obj\Debug\es\Resources.resources.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\obj\Debug\Resources.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\obj\Debug\Resources.pdb
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\bin\Debug\Resources.dll.config
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\bin\Debug\SendGridMail.dll
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Adrian Perez\Desktop\StoreAPB\Resources\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml

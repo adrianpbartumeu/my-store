@@ -1,0 +1,111 @@
+﻿@model StoreAPB.Models.Meat
+
+<div class="modal fade" id="editMeat" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" data-backdrop="static">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="exampleModalLabel" data-bind="text:product.visible() ? 'Create Meat':'Edit Meat'"></h4>
+                </div>
+                <div class="modal-body">
+                    <div data-bind="text:'This id is taken',visible:product.error" style="color:red;font:bold"></div>
+                    <form id="myform">
+                        @Html.AntiForgeryToken()
+
+                        @Html.HiddenFor(model => model.type, new { data_bind = "value:product.selectedType" })
+                        @Html.HiddenFor(model => model.categoryid, new { data_bind = "value:categoryid()" })
+                        @Html.HiddenFor(model => model.image, new { data_bind = "value:product.selectedmeat.image" })
+
+                        <div class="form-group form-group-sm" data-bind="visible:product.visible">
+                            @Html.LabelFor(model => model.productid, new { })
+                            @Html.TextBoxFor(model => model.productid, new { @class = "form-control input-sm", data_bind = "value:product.selectedmeat.productid" })
+                            @Html.ValidationMessageFor(model => model.productid)
+                        </div>
+                        <div class="form-group form-group-sm">
+                            @Html.LabelFor(model => model.provider, new { })
+                            @Html.TextBoxFor(model => model.provider, new { @class = "form-control input-sm", data_bind = "value:product.selectedmeat.provider" })
+                            @Html.ValidationMessageFor(model => model.provider)
+                        </div>
+                        <div class="form-group">
+                            <strong>@Html.LabelFor(model => model.type, new { })</strong>
+                            <select data-bind="options: product.type,value: product.selectedType, css:'form-control'"></select>
+                        </div>
+                        <div class="form-group">
+                            <strong>@Html.LabelFor(model => model.name_p, new { })</strong>
+                            @Html.TextBoxFor(model => model.name_p, null, new { @class = "form-control input-sm", data_bind = "value:product.selectedmeat.name" })
+                            @Html.ValidationMessageFor(model => model.name_p)
+                        </div>
+                        <div class="form-group">
+                            <strong>@Html.LabelFor(model => model.price, new { })</strong>
+                            @Html.TextBoxFor(model => model.price, new { @class = "form-control input-sm", data_bind = "value:product.selectedmeat.price" })
+                            @Html.ValidationMessageFor(model => model.price)
+                        </div>
+                        <div class="form-group" data-bind="visible:product.visible">
+                            <strong>@Html.LabelFor(model => model.reduce, new { })</strong>
+                            @Html.TextBoxFor(model => model.reduce, new { @class = "form-control input-sm", data_bind = "value:product.selectedmeat.reduce" })
+                            @Html.ValidationMessageFor(model => model.reduce)
+                        </div>
+                        <div class="form-group">
+                            <strong>@Html.LabelFor(model => model.amount, new { })</strong>
+                            @Html.TextBoxFor(model => model.amount, new { @class = "form-control input-sm", data_bind = "value:product.selectedmeat.amount" })
+                            @Html.ValidationMessageFor(model => model.amount)
+                        </div>
+                        <div class="form-group">
+                            <strong>@Html.LabelFor(model => model.categoryid, new { })</strong>
+                            <select data-bind="options: product.category,optionsText: 'name',value: product.selectedCategory, css:'form-control'"></select>
+                        </div>
+                        <div class="form-group" data-bind="visible:!product.visible()">
+                            <strong>@Html.LabelFor(model => model.image, new { })</strong>
+                            <img src="@Url.Content("~/Images/Meat/")" data-bind="appendToSRC:product.selectedmeat.type()+'/'+product.selectedmeat.image()" width="94" height="71" />
+                        </div>
+                        <input type="file" name="file">
+                        <div data-bind="text:'Select a .jpg file',visible:product.file" style="color:red;font:bold"></div>
+                        <div class=" modal-footer">
+                            <button type="button" class="btn btn-default btn-sm" data-dismiss="modal">Close</button>
+                            <button type="submit" class="btn btn-primary btn-sm" data-bind="text:product.visible() ? 'Create':'Edit'">Edit</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="modal fade" id="deMeat" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" data-backdrop="static">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="exampleModalLabel" data-bind="text:product.button()=='Ok'? 'Details Meat':'Delete Meat'">Details Meat</h4>
+                </div>
+                <div class="modal-body">
+                        <div class="form-group form-group-sm">
+                        Provider :<strong data-bind="text:' '+product.selectedmeat.provider()"></strong>
+                        </div>
+                        <div class="form-group">
+                            Type :<strong data-bind="text:' '+product.selectedmeat.type()"></strong>
+                        </div>
+                        <div class="form-group">
+                            Name :<strong data-bind="text:' '+product.selectedmeat.name()"></strong>
+                        </div>
+                        <div class="form-group">
+                            Price :<strong data-bind="text:' '+product.selectedmeat.price()"></strong>
+                        </div>
+                        <div class="form-group">
+                            Amount :<strong data-bind="text:' '+product.selectedmeat.amount()"></strong>
+                        </div>
+                        <div class="form-group">
+                            Category :<strong data-bind="text:' '+product.selectedmeat.category()"></strong>
+                        </div>
+                        <div class="form-group">
+                            <strong>@Html.LabelFor(model => model.image, new { })</strong>
+                            <img src="@Url.Content("~/Images/Meat/")" data-bind="appendToSRC:product.selectedmeat.type()+'/'+product.selectedmeat.image()" width="94" height="71" />
+                        </div>
+                        <div class=" modal-footer">
+                            <button type="button" class="btn btn-default btn-sm" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary btn-sm" data-bind="click:Action,text:product.button()"></button>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+

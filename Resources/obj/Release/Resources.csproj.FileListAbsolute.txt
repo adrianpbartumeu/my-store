@@ -1,0 +1,10 @@
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\bin\Release\Resources.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\bin\Release\Resources.pdb
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\bin\Release\es\Resources.resources.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\obj\Release\Resources.csprojResolveAssemblyReference.cache
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\obj\Release\Resources.Resources.resources
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\obj\Release\Resources.Resources.es.resources
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\obj\Release\Resources.csproj.GenerateResource.Cache
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\obj\Release\es\Resources.resources.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\obj\Release\Resources.dll
+D:\.NET Tech!!! Para que te meches en esto\Proyectos\ASP MVC\!!!!!Proyectos\Store Bootstrap\Store\Resources\obj\Release\Resources.pdb
